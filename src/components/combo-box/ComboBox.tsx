@@ -203,7 +203,7 @@ const ComboBox = React.forwardRef<HTMLInputElement, IComboBoxProps>(
               ) : (
                 <div
                   className={
-                    "bg-popover rounded-sm min-h-10 max-h-40 overflow-y-auto custom-scrollbar border border-gray-400 dark:border-gray-400 divide-gray-400 divide-y drop-shadow-lg"
+                    "bg-popover rounded-sm min-h-10 max-h-40 overflow-y-auto custom-scrollbar border border-gray-400 dark:border-gray-400 divide-gray-400 divide-y"
                   }
                   {...getFloatingProps({
                     ref: refs.setFloating,
