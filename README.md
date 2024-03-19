@@ -46,6 +46,9 @@ The ComboBox component should function as an input field with autocomplete funct
  - Ensure the ComboBox and text input components are usable independently and within a form context.
  - Ensure responsiveness and accessibility of the ComboBox panel.
 
+
+#### [Click here to see it showcased on YouTube](https://youtu.be/SGCl4qQ0IEg)
+
 ## Running application locally
 
 To run the application on your local machine, follow these steps:
