@@ -142,7 +142,6 @@ const ComboBox = React.forwardRef<HTMLInputElement, IComboBoxProps>(
       }
     }, [value, selectedValue, setValue, open, clearSelectedItem]);
 
-    console.log("test");
     return (
       <React.Fragment>
         <CustomInput
